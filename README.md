@@ -1,1 +1,1 @@
-<img src="static/images/brands/readme.png" alt="Youtube Redesign" />
+<img src="static/images/brands/readme.jpg" alt="Youtube Redesign" />
