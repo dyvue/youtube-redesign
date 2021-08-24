@@ -1,5 +1,5 @@
 <template>
-  <img src="/images/brands/white.svg" alt="Youtube" class="w-32"/>
+  <img src="/images/brands/white.svg" alt="Youtube" class="w-24"/>
 </template>
 
 <script>

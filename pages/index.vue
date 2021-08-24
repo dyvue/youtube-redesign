@@ -1,12 +1,13 @@
 <template>
-  <div class="fixed w-full h-full bg-dark-background flex justify-center items-center">
-    <coming-soon/>
+  <div>
+    <c-header/>
   </div>
 </template>
 
 <script>
-import ComingSoon from '@/components/ComingSoon.vue'
+import CHeader from '@/components/Header.vue'
 export default {
-  components: { ComingSoon },
+  layout: 'app',
+  components: { CHeader },
 }
 </script>
